@@ -1,0 +1,8 @@
+print("Program on variable")
+name =input("Enter your name")
+maj=input("Enter your major subject")
+Ds=input("Enter your displaine subject arts or sci")
+print("Your Details entered are")
+print ("Name ",name)
+print("Major",maj)
+print("Despline",Ds)
